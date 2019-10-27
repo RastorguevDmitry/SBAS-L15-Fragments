@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InstalledProgram</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello</string>
+    <string name="choose_package">Выберите пакет</string>
+    <string name="for_more_info">для просмотра информации</string>
+</resources>
